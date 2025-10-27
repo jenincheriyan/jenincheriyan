@@ -1,4 +1,5 @@
-# 💫 About Me: I'm a tech enthusiast
+# 💫 About Me: 
+I'm a tech enthusiast
 
 
 ## 🌐 Socials:
